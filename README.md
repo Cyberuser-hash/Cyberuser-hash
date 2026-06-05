@@ -121,7 +121,7 @@ A C# tool for demonstrating cryptography, secure email chat, and keylogger gener
 </div>
 
 PROGRAMMING_LANGUAGES:
-  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,cs,python,mysql,sqlite,docker,linux,ubuntu,git,vim,bitbucket,github,gitlab,discord)](https://skillicons.dev)
+  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,php,cs,python,mysql,sqlite,docker,linux,ubuntu,git,vim,bitbucket,github,gitlab,discord)](https://skillicons.dev)
   
 ```yaml
 
