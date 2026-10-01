@@ -38,7 +38,7 @@ Experience: incident response, server admin, network attacks, social engineering
 Knowing exactly where to poke without even scanning first. Pure intuition.
 
 **🛡️ WEAKNESS:**  
-Reverse engineering.
+Not a single one more
 
 <br clear="right"/>
 
